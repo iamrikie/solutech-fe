@@ -37,9 +37,9 @@ npm run build
 
 ## Below are a some of the screenshots of what I managed to do within the time.
 
-![Screenshot 2023-04-26 085321](https://user-images.githubusercontent.com/56028045/234520700-4b3bfb85-780d-4e2a-8270-93c1fc30b30a.png)
+![Screenshot 2023-04-26 141257](https://user-images.githubusercontent.com/56028045/234558759-80760054-8783-4f61-ae58-fa292e59c052.png)
 <br>
 
-![Screenshot 2023-04-26 091013](https://user-images.githubusercontent.com/56028045/234522029-2f3385e5-a746-44a5-907b-1a63f480fab4.png)
+
 <br>
 
