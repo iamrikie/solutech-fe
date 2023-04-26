@@ -51,6 +51,7 @@ npm run build
 <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234561898-e770b2e7-dac1-4478-a67c-371a62fbcf6d.png)
+The cards at the top of the dashboard show a count of each of that. The latest tasks card show with the newest coming first and with the many endpoints we have it can feature more relevant data --that applies to all the rest. Tasks By status card should display a pie chart simplifying reading the data(Some of the things I didnt get enough time to implement at the time)
 
 <br>
 
