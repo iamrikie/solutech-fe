@@ -42,13 +42,13 @@ npm run build
 
 ## Below are a some of the screenshots of what I managed to do within the time.
 
-![Screenshot 2023-04-26 141257](https://user-images.githubusercontent.com/56028045/234558759-80760054-8783-4f61-ae58-fa292e59c052.png)
+![Screenshot 2023-04-26 141257](https://user-images.githubusercontent.com/56028045/234558759-80760054-8783-4f61-ae58-fa292e59c052.png) <br>
 
-<br>
+![image](https://user-images.githubusercontent.com/56028045/234581928-cdf1ef5a-3826-4579-bfdc-c16bb6476ed2.png) <br>
 
-![Screenshot 2023-04-26 105700](https://user-images.githubusercontent.com/56028045/234561025-c1f14814-2743-443d-bce9-632ee5f56881.png)
+![image](https://user-images.githubusercontent.com/56028045/234582144-b1e0ebd7-ff13-4fe6-af44-d0cb4576576e.png) <br>
 
-<br>
+![Screenshot 2023-04-26 105700](https://user-images.githubusercontent.com/56028045/234561025-c1f14814-2743-443d-bce9-632ee5f56881.png) <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234561898-e770b2e7-dac1-4478-a67c-371a62fbcf6d.png)
 The cards at the top of the dashboard show a count of each of that. The latest tasks card show with the newest coming first and with the many endpoints we have it can feature more relevant data --that applies to all the rest. Tasks By status card should display a pie chart simplifying reading the data(Some of the things I didnt get enough time to implement at the time)
@@ -61,15 +61,14 @@ The cards at the top of the dashboard show a count of each of that. The latest t
 
 ![image](https://user-images.githubusercontent.com/56028045/234563647-bf02b696-a8cd-48f2-bf1b-0df042fa4a73.png) <br>
 
-![image](https://user-images.githubusercontent.com/56028045/234581928-cdf1ef5a-3826-4579-bfdc-c16bb6476ed2.png) <br>
-
-![image](https://user-images.githubusercontent.com/56028045/234582144-b1e0ebd7-ff13-4fe6-af44-d0cb4576576e.png) <br>
-
 ![image](https://user-images.githubusercontent.com/56028045/234563204-d1d53991-e68e-4b6a-b5ac-e7bd45e52450.png) <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234563822-f475749b-1f73-460a-8d6a-832864f43fd8.png) <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234564098-355ad351-f148-49fa-9b84-712c0760ee18.png) <br>
+
+![image](https://user-images.githubusercontent.com/56028045/234585829-7ad47c6a-1cf8-4bd4-bda3-520dba8a697d.png) <br>
+While not nearly perfect, given the timeline, the project has the potential to become a fully functional task management system. <br> 
 
 ![image](https://user-images.githubusercontent.com/56028045/234564358-6fb50f66-ab70-4860-a648-fd3cc4b9c466.png)
 
