@@ -57,15 +57,15 @@ The cards at the top of the dashboard show a count of each of that. The latest t
 
 ![image](https://user-images.githubusercontent.com/56028045/234562838-ee0cb1d0-66d5-4ad7-a766-6292f14a52b2.png) <br>
 
+![image](https://user-images.githubusercontent.com/56028045/234563466-2657d8de-66c0-4251-a425-34359440e835.png) <br>
+
+![image](https://user-images.githubusercontent.com/56028045/234563647-bf02b696-a8cd-48f2-bf1b-0df042fa4a73.png) <br>
+
 ![image](https://user-images.githubusercontent.com/56028045/234581928-cdf1ef5a-3826-4579-bfdc-c16bb6476ed2.png) <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234582144-b1e0ebd7-ff13-4fe6-af44-d0cb4576576e.png) <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234563204-d1d53991-e68e-4b6a-b5ac-e7bd45e52450.png) <br>
-
-![image](https://user-images.githubusercontent.com/56028045/234563466-2657d8de-66c0-4251-a425-34359440e835.png) <br>
-
-![image](https://user-images.githubusercontent.com/56028045/234563647-bf02b696-a8cd-48f2-bf1b-0df042fa4a73.png) <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234563822-f475749b-1f73-460a-8d6a-832864f43fd8.png) <br>
 
