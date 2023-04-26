@@ -2,6 +2,12 @@
 # solutech_fe
 <br><br>
 
+<br><br>
+### About the project
+<p>Based on a given ERD, this is a task management system where users can create tasks, assign them to themselves or other users, set due dates, track the status of tasks using the status table, and add comments or remarks to tasks. The system should also allow for the creation and deletion of users, tasks, and statuses, as well as the ability to update and modify existing records. Finally, the system should keep track of timestamps for when records were created, updated, and deleted.</p>
+
+<br><br>
+
 
 ## Vue 3 + Vite
 
