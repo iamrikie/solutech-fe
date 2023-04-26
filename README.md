@@ -68,7 +68,9 @@ The dashboard's top cards display a count of each item, while the latest tasks c
 ![image](https://user-images.githubusercontent.com/56028045/234564098-355ad351-f148-49fa-9b84-712c0760ee18.png) <br>
 
 ![image](https://user-images.githubusercontent.com/56028045/234585829-7ad47c6a-1cf8-4bd4-bda3-520dba8a697d.png) <br>
-While not nearly perfect, given the timeline, the project has the potential to become a fully functional task management system. <br> 
+By optimizing the code further, particularly on the backend, we can achieve better control over the data, which also prevents security vulnerabilities such as SQL injection. The next step is to further utilize request validation by defining validation rules for each functionality and resource classes to format JSON responses. 
+
+<br> 
 
 ![image](https://user-images.githubusercontent.com/56028045/234564358-6fb50f66-ab70-4860-a648-fd3cc4b9c466.png)
 
